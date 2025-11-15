@@ -10,4 +10,5 @@ Setiap item harus memiliki:
 • Harga
 • Efek bayangan halus
 
-<img width="618" height="1002" alt="image" src="https://github.com/user-attachments/assets/55a1a11b-c05e-4277-b703-c00671dbcff8" />
+<img width="615" height="893" alt="image" src="https://github.com/user-attachments/assets/814bbe53-27c1-4003-87ff-e0601087d55f" />
+
